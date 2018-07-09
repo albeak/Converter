@@ -1,0 +1,7 @@
+e:\!current task work without log\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+e:\!current task work without log\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\Converter.BL.csprojAssemblyReference.cache
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\Converter.BL.csproj.ResolveComReference.cache
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\Converter.BL.csproj.CoreCompileInputs.cache
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+e:\!current task work without log\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb
